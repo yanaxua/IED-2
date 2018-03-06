@@ -1,0 +1,63 @@
+{
+  "series": [{
+    "alia": "2D图",
+    "data": [{
+      "name": "面积图",
+      "type": "area"
+    }, {
+      "name": "散点图",
+      "type": "scatter"
+    }, {
+      "name": "表格图",
+      "type": "table"
+    }, {
+      "name": "折线图",
+      "type": "line"
+    }, {
+      "name": "柱状图",
+      "type": "bar"
+    }, {
+      "name": "饼图",
+      "type": "pie"
+    }, {
+      "name": "雷达图",
+      "type": "radar"
+    }, {
+      "name": "树状图",
+      "type": "tree"
+    }, {
+      "name": "仪表图",
+      "type": "gauge"
+    }, {
+      "name": "热力图",
+      "type": "heatmap"
+    }, {
+      "name": "平行坐标",
+      "type": "parallel"
+    }, {
+      "name": "地图",
+      "type": "map"
+    }, {
+      "name": "K线图",
+      "type": "candlestick"
+    }, {
+      "name": "日历图",
+      "type": "calendar"
+    }]
+  }, {
+    "alia": "3D图",
+    "data": [{
+      "name": "动态时间图",
+      "type": "time"
+    }, {
+      "name": "3D面图",
+      "type": "surface"
+    }, {
+      "name": "3D柱图",
+      "type": "bar3D"
+    }, {
+      "name": "3D散点图",
+      "type": "scatter3D"
+    }]
+  }]
+}

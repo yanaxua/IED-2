@@ -1,0 +1,186 @@
+[
+  [{
+    "title": "全国",
+    "treecode": "AA",
+    "children": [{
+      "title": "广东",
+      "treecode": "AAA",
+      "children": [{
+        "title": "广州",
+        "treecode": "AAAA"
+      }, {
+        "title": "惠州",
+        "treecode": "AAAB"
+      }, {
+        "title": "深圳",
+        "treecode": "AAAC"
+      }]
+    }, {
+      "title": "广西",
+      "treecode": "AAB",
+      "children": [{
+        "title": "百色",
+        "treecode": "AABA"
+      }, {
+        "title": "北海",
+        "treecode": "AABB"
+      }, {
+        "title": "桂林",
+        "treecode": "AABC"
+      }]
+    }, {
+      "title": "湖南",
+      "treecode": "AAC",
+      "children": [{
+        "title": "长沙",
+        "treecode": "AACA"
+      }, {
+        "title": "株洲",
+        "treecode": "AACB"
+      }, {
+        "title": "衡阳",
+        "treecode": "AACC"
+      }]
+    }]
+  }],
+  [{
+    "title": "21世纪",
+    "treecode": "BA",
+    "children": [{
+      "title": "2012",
+      "treecode": "BAA",
+      "children": [{
+        "title": "一季度",
+        "treecode": "BAAA"
+      }, {
+        "title": "二季度",
+        "treecode": "BAAB"
+      }, {
+        "title": "三季度",
+        "treecode": "BAAC"
+      }, {
+        "title": "四季度",
+        "treecode": "BAAD"
+      }]
+    }, {
+      "title": "2014",
+      "treecode": "BAB",
+      "children": [{
+        "title": "一季度",
+        "treecode": "BABA"
+      }, {
+        "title": "二季度",
+        "treecode": "BABB"
+      }, {
+        "title": "三季度",
+        "treecode": "BABC"
+      }, {
+        "title": "四季度",
+        "treecode": "BABD"
+      }]
+    }, {
+      "title": "2016",
+      "treecode": "BAC",
+      "children": [{
+        "title": "一季度",
+        "treecode": "BACA",
+        "children": [{
+          "title": "一月",
+          "treecode": "BACAA"
+        }, {
+          "title": "二月",
+          "treecode": "BACAB"
+        }, {
+          "title": "三月",
+          "treecode": "BACAC"
+        }, {
+          "title": "四月",
+          "treecode": "BACAD"
+        }]
+      }, {
+        "title": "二季度",
+        "treecode": "BACB"
+      }, {
+        "title": "三季度",
+        "treecode": "BACC"
+      }, {
+        "title": "四季度",
+        "treecode": "BACD"
+      }]
+    },{
+      "title": "2018",
+      "treecode": "BAC",
+      "children": [{
+        "title": "一季度",
+        "treecode": "BACA",
+        "children": [{
+          "title": "一月",
+          "treecode": "BACAA"
+        }, {
+          "title": "二月",
+          "treecode": "BACAB"
+        }, {
+          "title": "三月",
+          "treecode": "BACAC"
+        }, {
+          "title": "四月",
+          "treecode": "BACAD"
+        }]
+      }, {
+        "title": "二季度",
+        "treecode": "BACB"
+      }, {
+        "title": "三季度",
+        "treecode": "BACC"
+      }, {
+        "title": "四季度",
+        "treecode": "BACD"
+      }]
+    }
+    ]
+  }],
+  [{
+    "title": "总行业",
+    "treecode": "CA",
+    "children": [{
+      "title": "农业",
+      "treecode": "CAA",
+      "children": [{
+        "title": "畜牧业",
+        "treecode": "CAAA"
+      }, {
+        "title": "养殖业",
+        "treecode": "CAAB"
+      }, {
+        "title": "林业",
+        "treecode": "CAAC"
+      }]
+    }, {
+      "title": "服务业",
+      "treecode": "CAB",
+      "children": [{
+        "title": "餐饮",
+        "treecode": "CABA"
+      }, {
+        "title": "健身",
+        "treecode": "CABB"
+      }, {
+        "title": "留学中介",
+        "treecode": "CABC"
+      }]
+    }, {
+      "title": "工业",
+      "treecode": "CAC",
+      "children": [{
+        "title": "机床制造",
+        "treecode": "CACA"
+      }, {
+        "title": "煤矿开采",
+        "treecode": "CACB"
+      }, {
+        "title": "船舶制造",
+        "treecode": "CACC"
+      }]
+    }]
+  }]
+]

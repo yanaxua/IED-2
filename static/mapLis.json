@@ -1,0 +1,143 @@
+{
+  "series": [{
+      "label": "世界地图",
+      "value": "world"
+    },
+    {
+      "label": "中国",
+      "value": "china"
+    },
+    {
+      "label": "安徽",
+      "value": "anhui,安徽"
+    },
+    {
+      "label": "澳门",
+      "value": "aomen,澳门"
+    },
+    {
+      "label": "重庆",
+      "value": "chongqing,重庆"
+    },
+    {
+      "label": "福建",
+      "value": "fujian,福建"
+    },
+    {
+      "label": "甘肃",
+      "value": "gansu,甘肃"
+    },
+    {
+      "label": "广东",
+      "value": "guangdong,广东"
+    },
+    {
+      "label": "广西",
+      "value": "guangxi,广西"
+    },
+    {
+      "label": "贵州",
+      "value": "guizhou,贵州"
+    },
+    {
+      "label": "海南",
+      "value": "hainan,海南"
+    },
+    {
+      "label": "河北",
+      "value": "hebei,河北"
+    },
+    {
+      "label": "黑龙江",
+      "value": "heilongjiang,黑龙江"
+    },
+    {
+      "label": "河南",
+      "value": "henan,河南"
+    },
+    {
+      "label": "湖北",
+      "value": "hubei,湖北"
+    },
+    {
+      "label": "湖南",
+      "value": "hunan,湖南"
+    },
+    {
+      "label": "江苏",
+      "value": "jiangsu,江苏"
+    },
+    {
+      "label": "江西",
+      "value": "jiangxi,江西"
+    },
+    {
+      "label": "吉林",
+      "value": "jilin,吉林"
+    },
+    {
+      "label": "辽宁",
+      "value": "liaoning,辽宁"
+    },
+    {
+      "label": "内蒙古",
+      "value": "neimenggu,内蒙古"
+    },
+    {
+      "label": "宁夏",
+      "value": "ningxia,宁夏"
+    },
+    {
+      "label": "青海",
+      "value": "qinghai,青海"
+    },
+    {
+      "label": "山东",
+      "value": "shandong,山东"
+    },
+    {
+      "label": "上海",
+      "value": "shanghai,上海"
+    },
+    {
+      "label": "山西",
+      "value": "shanxi,山西"
+    },
+    {
+      "label": "陕西",
+      "value": "shanxi1,陕西"
+    },
+    {
+      "label": "四川",
+      "value": "sichuan,四川"
+    },
+    {
+      "label": "台湾",
+      "value": "taiwan,台湾"
+    },
+    {
+      "label": "天津",
+      "value": "tianjin,天津"
+    },
+    {
+      "label": "香港",
+      "value": "xianggang,香港"
+    },
+    {
+      "label": "新疆",
+      "value": "xinjiang,新疆"
+    },
+    {
+      "label": "西藏",
+      "value": "xizang,西藏"
+    },
+    {
+      "label": "云南",
+      "value": "yunnan,云南"
+    },
+    {
+      "label": "浙江",
+      "value": "zhejiang,浙江"
+    }
+  ]
+}
